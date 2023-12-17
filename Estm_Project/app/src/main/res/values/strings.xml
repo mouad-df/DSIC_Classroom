@@ -2,4 +2,5 @@
     <string name="app_name">Estm_Project</string>
     <string name="title_activity_student_login">Student_Login_Activity</string>
     <string name="title_activity_teacher_login">Teacher_Login_Activity</string>
+    <string name="title_activity_home_screen">Home_Screen_Activity</string>
 </resources>

@@ -1,5 +1,6 @@
 package com.example.estm_project.compose
 
+import android.content.Intent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -107,7 +108,8 @@ fun Student_Login_Screen() {
                 )
                 Spacer(modifier = Modifier.padding(10.dp))
                 Button(
-                    onClick = {},
+                    onClick = {
+                    },
                     modifier = Modifier
                         .fillMaxWidth(8.8f)
                         .height(50.dp)
